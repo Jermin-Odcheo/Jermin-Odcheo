@@ -11,7 +11,7 @@ I'm a **Full-Stack Developer** with a passion for crafting engaging web applicat
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/jerminodcheo/)
-- [TryHackMe](https://tryhackme.com/dashboard)
+- [TryHackMe](https://tryhackme.com/p/frankenste1n)
 
 ## Projects & Contributions
 
