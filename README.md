@@ -46,12 +46,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-jermin-odcheos-projects.vercel.app/api?username=Jermin-Odcheo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-master-jermin-odcheos-projects.vercel.app/?username=Jermin-Odcheo&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jermin-odcheo&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-jermin-odcheos-projects.vercel.app/?user=jermin-odcheo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats-git-master-jermin-odcheos-projects.vercel.app/api/top-langs?username=Jermin-Odcheo&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
