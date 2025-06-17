@@ -1,34 +1,147 @@
- # Hi, I'm Jermin!
+# 👋 Hi, I'm Jermin!
 
-I'm a **Full-Stack Developer** with a passion for crafting engaging web applications and exploring the latest in AI. Currently, I'm honing my skills as an **Intern at SLU**, diving deep into innovative technologies and practical development challenges.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;Problem+Solver;Innovation+Explorer)](https://git.io/typing-svg)
 
-## About Me
+</div>
 
-- 🔭 I’m currently working as an **Intern at SLU**
-- 🌐 I’m a **Full-Stack Developer** experienced in both front-end and back-end technologies
-- 🤖 I’m passionate about **AI** and continuously exploring emerging trends in the field
+---
 
-## Connect with Me
+## 🚀 About Me
 
-- [LinkedIn](https://www.linkedin.com/in/jerminodcheo/)
-- [TryHackMe](https://tryhackme.com/p/frankenste1n)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## Projects & Contributions
+🔭 **Currently:** Fresh Graduate at **SLU** - Diving deep into innovative technologies  
+🌐 **Role:** Full-Stack Developer with expertise in modern web technologies  
+🤖 **Passion:** AI exploration and emerging tech trends  
+💡 **Mission:** Bridging creativity with functionality through code  
 
-I enjoy building projects that bridge creativity with functionality. Here are a few things I’m proud of:
-- **Web Applications:** Developing user-friendly applications with modern web technologies.
-- **AI Explorations:** Experimenting with AI models and integrating them into real-world solutions.
+<br clear="right"/>
 
-## Skills
+---
 
-- **Languages:** JavaScript, Python, Java and more
-- **Frameworks & Libraries:** React, Node.js, Bootstrap, etc.
-- **Tools:** Git, and other modern development tools
+## 🛠️ Tech Stack
 
-## Interests
+<div align="center">
 
-When I'm not coding or experimenting with new technologies, you'll likely find me:
-- Keeping up with the latest in tech and AI
-- Exploring new programming languages and frameworks
+### Languages and Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?&style=for-the-badge&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<!-- Feel free to check out my repositories to see what I've been working on and get in touch if you'd like to collaborate! -->
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-master-jermin-odcheos-projects.vercel.app/api?username=Jermin-Odcheo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-master-jermin-odcheos-projects.vercel.app/?username=Jermin-Odcheo&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-git-master-jermin-odcheos-projects.vercel.app/?user=jermin-odcheo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Working On
+- 🚀 Advanced web applications with modern frameworks
+- 🤖 AI integration projects
+- 📱 Responsive design implementations
+- 🔧 Backend optimization techniques
+
+</td>
+<td width="50%">
+
+### 📚 Learning
+- 🧠 Machine Learning algorithms
+- ☁️ Cloud computing platforms
+- 🔐 Cybersecurity fundamentals
+- 📊 Data visualization techniques
+
+</td>
+</tr>
+</table>
+
+---
+<!--
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jermin-odcheo&repo=project1&theme=tokyonight)](https://github.com/jermin-odcheo/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jermin-odcheo&repo=project2&theme=tokyonight)](https://github.com/jermin-odcheo/project2)
+
+</div>
+-->
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerminodcheo/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/frankenste1n)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jermin-odcheo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerminbodcheo@gmail.com)
+
+</div>
+
+---
+
+## 💡 Fun Facts
+
+<div align="center">
+
+```javascript
+const jermin = {
+    code: ["JavaScript", "Python", "Java"],
+    askMeAbout: ["web dev", "AI", "cybersecurity", "innovation"],
+    technologies: {
+        frontEnd: ["React", "HTML5", "CSS3", "Bootstrap"],
+        backEnd: ["Node.js", "Express"],
+        tools: ["Git", "VS Code", "Postman"]
+    },
+    currentlyLearning: "AI/ML Integration",
+    funFact: "I debug with console.log() and I'm proud of it! 🐛"
+};
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎵 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thank you for visiting my profile!** ⭐️  
+*Feel free to explore my repositories and let's build something amazing together!*
+
+![](https://komarev.com/ghpvc/?username=jermin-odcheo&color=brightgreen&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
