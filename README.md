@@ -44,9 +44,8 @@
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jermin-odcheo&theme=tokyonight" alt="GitHub Streak"/>
+<img height="180em" src="https://streak-stats.vercel.app?user=jermin-odcheo&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
