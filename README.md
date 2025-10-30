@@ -12,9 +12,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🔭 **Currently:** Fresh Graduate at **SLU** - Diving deep into innovative technologies  
-🌐 **Role:** Full-Stack Developer with expertise in modern web technologies  
-🤖 **Passion:** AI exploration and emerging tech trends  
+🌐 **Role:** Full-Stack Developer
+🤖 **Passion:** AI exploration
 💡 **Mission:** Bridging creativity with functionality through code  
 
 <br clear="right"/>
@@ -38,7 +37,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
 </div>
 
 ---
