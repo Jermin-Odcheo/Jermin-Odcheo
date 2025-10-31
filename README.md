@@ -43,51 +43,13 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-<img height="180em" src="https://streak-stats.vercel.app?user=jermin-odcheo&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="500" height="600" src="https://streak-stats.vercel.app?user=jermin-odcheo&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-jermin-odcheos-projects.vercel.app/api/top-langs?username=Jermin-Odcheo&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="500" height="600" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jermin-Odcheo&theme=tokyonight"/>
 </div>
 
----
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 Working On
-- 🚀 Advanced web applications with modern frameworks
-- 🤖 AI integration projects
-- 📱 Responsive design implementations
-- 🔧 Backend optimization techniques
-
-</td>
-<td width="50%">
-
-### 📚 Learning
-- 🧠 Machine Learning algorithms
-- ☁️ Cloud computing platforms
-- 🔐 Cybersecurity fundamentals
-- 📊 Data visualization techniques
-
-</td>
-</tr>
-</table>
-
----
-<!--
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jermin-odcheo&repo=project1&theme=tokyonight)](https://github.com/jermin-odcheo/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jermin-odcheo&repo=project2&theme=tokyonight)](https://github.com/jermin-odcheo/project2)
-
-</div>
--->
 ---
 
 ## 🤝 Let's Connect!
