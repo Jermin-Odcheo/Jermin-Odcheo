@@ -65,28 +65,6 @@
 
 ---
 
-## 💡 Fun Facts
-
-<div align="center">
-
-```javascript
-const jermin = {
-    code: ["JavaScript", "Python", "Java"],
-    askMeAbout: ["web dev", "AI", "cybersecurity", "innovation"],
-    technologies: {
-        frontEnd: ["React", "HTML5", "CSS3", "Bootstrap"],
-        backEnd: ["Node.js", "Express"],
-        tools: ["Git", "VS Code", "Postman"]
-    },
-    currentlyLearning: "AI/ML Integration",
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
-};
-```
-
-</div>
-
----
-
 <div align="center">
 
 ### 🎵 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
