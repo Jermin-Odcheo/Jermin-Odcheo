@@ -12,10 +12,10 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-- 🌐 **Role:** Full-Stack Developer  
-- 🤖 **Passion:** AI exploration  
-- 💡 **Mission:** Bridging creativity with functionality through code  
-
+- 🌐 **Role:** Aspiring Full-Stack Developer  
+- 🤖 **Interests:** AI prompting & exploration  
+- 💡 **Mission:** Bridging creativity with functionality through code
+ 
 <br clear="right" />
 
 ---
