@@ -75,6 +75,68 @@ Here's a snapshot of what I reach for most often:
 
 ---
 
+## 🗂️ Featured Projects
+
+> Projects are tagged by type and priority. Click any project to explore!
+
+### 🌐 Web Applications
+
+| Project | Description | Priority | Tags |
+|---------|-------------|----------|------|
+| [Inventory Management System (TMDD)](https://github.com/Jermin-Odcheo/Inventory-Management-System-TMDD) | Full-stack inventory system with RBAC, SQL optimization, and pagination | ![High](https://img.shields.io/badge/Priority-High-brightgreen?style=flat-square) | ![Web App](https://img.shields.io/badge/Web%20App-0078D4?style=flat-square) ![Full Stack](https://img.shields.io/badge/Full%20Stack-blueviolet?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| [Document Reviewing System](https://github.com/Jermin-Odcheo/Document-Reviewing-system-) | Document upload, review, and feedback workflow system | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square) | ![Web App](https://img.shields.io/badge/Web%20App-0078D4?style=flat-square) ![Full Stack](https://img.shields.io/badge/Full%20Stack-blueviolet?style=flat-square) |
+| [Wordy Game](https://github.com/Jermin-Odcheo/WordyGame) | Word puzzle game built with Java and Python | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square) | ![Game](https://img.shields.io/badge/Game-ff69b4?style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [Project 1](https://github.com/Jermin-Odcheo/Project-1) | Early full-stack web development project | ![Low](https://img.shields.io/badge/Priority-Low-lightgrey?style=flat-square) | ![Web App](https://img.shields.io/badge/Web%20App-0078D4?style=flat-square) ![Full Stack](https://img.shields.io/badge/Full%20Stack-blueviolet?style=flat-square) |
+
+---
+
+### 🤖 AI & Chatbot Projects
+
+| Project | Description | Priority | Tags |
+|---------|-------------|----------|------|
+| [Portfolio Chatbot](https://github.com/Jermin-Odcheo/Portfolio-Chatbot) | AI-powered chatbot embedded in personal portfolio | ![High](https://img.shields.io/badge/Priority-High-brightgreen?style=flat-square) | ![AI](https://img.shields.io/badge/AI-00D4FF?style=flat-square) ![Chatbot](https://img.shields.io/badge/Chatbot-8A2BE2?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [ChatbotNaviBot](https://github.com/Jermin-Odcheo/ChatbotNaviBot) | Navigation-focused chatbot assistant | ![High](https://img.shields.io/badge/Priority-High-brightgreen?style=flat-square) | ![AI](https://img.shields.io/badge/AI-00D4FF?style=flat-square) ![Chatbot](https://img.shields.io/badge/Chatbot-8A2BE2?style=flat-square) |
+
+---
+
+### 📊 Data Analytics
+
+| Project | Description | Priority | Tags |
+|---------|-------------|----------|------|
+| [Team Yor OnTrack](https://github.com/Jermin-Odcheo/Team-Yor-OnTrack) | Collaborative project/task data analytics dashboard | ![High](https://img.shields.io/badge/Priority-High-brightgreen?style=flat-square) | ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-013243?style=flat-square&logo=numpy&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Team Project](https://img.shields.io/badge/Team%20Project-orange?style=flat-square) |
+
+---
+
+### 🎨 Portfolio & Personal Sites
+
+| Project | Description | Priority | Tags |
+|---------|-------------|----------|------|
+| [Jermin-Odcheo.github.io](https://github.com/Jermin-Odcheo/Jermin-Odcheo.github.io) | Main portfolio/personal website (live on GitHub Pages) | ![High](https://img.shields.io/badge/Priority-High-brightgreen?style=flat-square) | ![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square) ![Live Site](https://img.shields.io/badge/Live%20Site-success?style=flat-square) |
+| [Photo Portfolio](https://github.com/Jermin-Odcheo/photo-portfolio) | Photography showcase portfolio website | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square) | ![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square) ![Photography](https://img.shields.io/badge/Photography-ff69b4?style=flat-square) |
+| [Website](https://github.com/Jermin-Odcheo/website) | General personal/portfolio website | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square) | ![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square) |
+| [Stream](https://github.com/Jermin-Odcheo/Stream) | Streaming/content platform UI | ![Low](https://img.shields.io/badge/Priority-Low-lightgrey?style=flat-square) | ![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square) ![UI](https://img.shields.io/badge/UI-1572B6?style=flat-square) |
+
+---
+
+### 🔌 API & Data Projects
+
+| Project | Description | Priority | Tags |
+|---------|-------------|----------|------|
+| [Anime Manga Fetch API](https://github.com/Jermin-Odcheo/Anime-Manga-Fetch-API) | REST API client for fetching anime/manga data | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square) | ![API](https://img.shields.io/badge/REST%20API-005571?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [GitHub Readme Stats](https://github.com/Jermin-Odcheo/github-readme-stats) | Custom GitHub stats card integration | ![Low](https://img.shields.io/badge/Priority-Low-lightgrey?style=flat-square) | ![API](https://img.shields.io/badge/REST%20API-005571?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) |
+
+---
+
+### 🧪 Assessments & Collaborative Projects
+
+| Project | Description | Priority | Tags |
+|---------|-------------|----------|------|
+| [Codebility Assessment](https://github.com/Jermin-Odcheo/codebility-assessment) | Coding skills assessment submission | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square) | ![Assessment](https://img.shields.io/badge/Assessment-orange?style=flat-square) ![Full Stack](https://img.shields.io/badge/Full%20Stack-blueviolet?style=flat-square) |
+| [it312-9474-mt-teamburnersly](https://github.com/Jermin-Odcheo/it312-9474-mt-teamburnersly) | Midterm team project for IT312 course | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square) | ![Academic](https://img.shields.io/badge/Academic-9cf?style=flat-square) ![Team Project](https://img.shields.io/badge/Team%20Project-orange?style=flat-square) |
+| [it312-9474-fn-teamburnersly](https://github.com/Jermin-Odcheo/it312-9474-fn-teamburnersly) | Finals team project for IT312 course | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square) | ![Academic](https://img.shields.io/badge/Academic-9cf?style=flat-square) ![Team Project](https://img.shields.io/badge/Team%20Project-orange?style=flat-square) |
+
+---
+
 ## GitHub Analytics
 
 Numbers don't tell the whole story, but they're a good place to start.
@@ -91,7 +153,7 @@ Numbers don't tell the whole story, but they're a good place to start.
 ## Let's Connect
 
 I'm always open to new opportunities, collaborations, or just a good conversation about tech.
-Whether you're a recruiter, a fellow developer, or someone with an interesting idea feel free to reach out.
+Whether you're a recruiter, a fellow developer, or someone with an interesting idea — feel free to reach out.
 
 <div align="center">
 
