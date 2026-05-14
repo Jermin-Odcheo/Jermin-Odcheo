@@ -103,7 +103,7 @@ Here's a snapshot of what I reach for most often:
 
 | Project | Description | Priority | Tags |
 |---------|-------------|----------|------|
-| [Team Yor OnTrack](https://github.com/Jermin-Odcheo/Team-Yor-OnTrack) | Collaborative project/task data analytics dashboard | ![High](https://img.shields.io/badge/Priority-High-brightgreen?style=flat-square) | ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-013243?style=flat-square&logo=numpy&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Team Project](https://img.shields.io/badge/Team%20Project-orange?style=flat-square) |
+| [Team Yor OnTrack](https://github.com/Jermin-Odcheo/Team-Yor-OnTrack-Crime-Pattern-Analysis) | Clustering and Predictive Sequencing | ![High](https://img.shields.io/badge/Priority-High-brightgreen?style=flat-square) | ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-013243?style=flat-square&logo=numpy&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Team Project](https://img.shields.io/badge/Team%20Project-orange?style=flat-square) |
 
 ---
 
