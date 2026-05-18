@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-I'm an aspiring Full-Stack Developer with a passion for building things that actually work — cleanly, efficiently, and with purpose.
+I'm a Full-Stack Developer, Data Analyst & Engineer with a passion for building things that actually work — cleanly, efficiently, and with purpose.
 My journey started with curiosity about how the web works, and it hasn't stopped since.
 These days, I spend my time exploring the intersection of AI and software development,
 looking for ways to make applications smarter and experiences more seamless.
@@ -75,22 +75,21 @@ Here's a snapshot of what I reach for most often:
 
 ---
 
-## 🗂️ Featured Projects
+## Featured Projects
 
 > Projects are tagged by type and priority. Click any project to explore!
 
-### 🌐 Web Applications
+### Web Applications
 
 | Project | Description | Priority | Tags |
 |---------|-------------|----------|------|
 | [Inventory Management System (TMDD)](https://github.com/Jermin-Odcheo/Inventory-Management-System-TMDD) | Full-stack inventory system with RBAC, SQL optimization, and pagination | ![High](https://img.shields.io/badge/Priority-High-brightgreen?style=flat-square) | ![Web App](https://img.shields.io/badge/Web%20App-0078D4?style=flat-square) ![Full Stack](https://img.shields.io/badge/Full%20Stack-blueviolet?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | [Document Reviewing System](https://github.com/Jermin-Odcheo/Document-Reviewing-system-) | Document upload, review, and feedback workflow system | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square) | ![Web App](https://img.shields.io/badge/Web%20App-0078D4?style=flat-square) ![Full Stack](https://img.shields.io/badge/Full%20Stack-blueviolet?style=flat-square) |
 | [Wordy Game](https://github.com/Jermin-Odcheo/WordyGame) | Word puzzle game built with Java and Python | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square) | ![Game](https://img.shields.io/badge/Game-ff69b4?style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [Project 1](https://github.com/Jermin-Odcheo/Project-1) | Early full-stack web development project | ![Low](https://img.shields.io/badge/Priority-Low-lightgrey?style=flat-square) | ![Web App](https://img.shields.io/badge/Web%20App-0078D4?style=flat-square) ![Full Stack](https://img.shields.io/badge/Full%20Stack-blueviolet?style=flat-square) |
 
 ---
 
-### 🤖 AI & Chatbot Projects
+### AI & Chatbot Projects
 
 | Project | Description | Priority | Tags |
 |---------|-------------|----------|------|
@@ -99,7 +98,7 @@ Here's a snapshot of what I reach for most often:
 
 ---
 
-### 📊 Data Analytics
+### Data Analytics
 
 | Project | Description | Priority | Tags |
 |---------|-------------|----------|------|
@@ -107,7 +106,7 @@ Here's a snapshot of what I reach for most often:
 
 ---
 
-### 🎨 Portfolio & Personal Sites
+### Portfolio & Personal Sites
 
 | Project | Description | Priority | Tags |
 |---------|-------------|----------|------|
@@ -118,7 +117,7 @@ Here's a snapshot of what I reach for most often:
 
 ---
 
-### 🔌 API & Data Projects
+### API & Data Projects
 
 | Project | Description | Priority | Tags |
 |---------|-------------|----------|------|
@@ -127,7 +126,7 @@ Here's a snapshot of what I reach for most often:
 
 ---
 
-### 🧪 Assessments & Collaborative Projects
+### Assessments & Collaborative Projects
 
 | Project | Description | Priority | Tags |
 |---------|-------------|----------|------|
