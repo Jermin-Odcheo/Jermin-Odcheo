@@ -122,7 +122,6 @@ Here's a snapshot of what I reach for most often:
 | Project | Description | Priority | Tags |
 |---------|-------------|----------|------|
 | [Anime Manga Fetch API](https://github.com/Jermin-Odcheo/Anime-Manga-Fetch-API) | REST API client for fetching anime/manga data | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square) | ![API](https://img.shields.io/badge/REST%20API-005571?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [GitHub Readme Stats](https://github.com/Jermin-Odcheo/github-readme-stats) | Custom GitHub stats card integration | ![Low](https://img.shields.io/badge/Priority-Low-lightgrey?style=flat-square) | ![API](https://img.shields.io/badge/REST%20API-005571?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) |
 
 ---
 
