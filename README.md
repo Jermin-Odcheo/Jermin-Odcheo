@@ -131,7 +131,6 @@ Here's a snapshot of what I reach for most often:
 |---------|-------------|------|
 | [Codebility Assessment](https://github.com/Jermin-Odcheo/codebility-assessment) | Coding skills assessment submission | ![Assessment](https://img.shields.io/badge/Assessment-orange?style=flat-square) ![Full Stack](https://img.shields.io/badge/Full%20Stack-blueviolet?style=flat-square) |
 | [it312-9474-mt-teamburnersly](https://github.com/Jermin-Odcheo/it312-9474-mt-teamburnersly) | Midterm team project for IT312 course | ![Academic](https://img.shields.io/badge/Academic-9cf?style=flat-square) ![Team Project](https://img.shields.io/badge/Team%20Project-orange?style=flat-square) |
-| [it312-9474-fn-teamburnersly](https://github.com/Jermin-Odcheo/it312-9474-fn-teamburnersly) | Finals team project for IT312 course | ![Academic](https://img.shields.io/badge/Academic-9cf?style=flat-square) ![Team Project](https://img.shields.io/badge/Team%20Project-orange?style=flat-square) |
 ---
 
 ## GitHub Analytics
