@@ -149,7 +149,7 @@ Numbers don't tell the whole story, but they're a good place to start.
 ## Let's Connect
 
 I'm always open to new opportunities, collaborations, or just a good conversation about tech.
-Whether you're a recruiter, a fellow developer, or someone with an interesting idea — feel free to reach out.
+Whether you're a recruiter, a fellow developer, or someone with an interesting idea, feel free to reach out.
 
 <div align="center">
 
@@ -165,7 +165,7 @@ Whether you're a recruiter, a fellow developer, or someone with an interesting i
 
 <div align="center">
 
-### *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### *"Code is like humour. When you have to explain it, it's bad."* – Cory House
 
 <br />
 
