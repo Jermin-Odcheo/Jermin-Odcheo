@@ -179,6 +179,9 @@ and if something catches your eye, let's build on it together.
 </div>
 
 ---
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/a3990804-e305-4365-bce6-c308e6292fc8/thumbnail" >
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
